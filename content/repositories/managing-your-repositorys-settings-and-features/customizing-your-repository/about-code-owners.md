@@ -8,10 +8,7 @@ redirect_from:
   - /github/creating-cloning-and-archiving-repositories/about-code-owners
   - /github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners
 product: '{% data reusables.gated-features.code-owners %}'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
+
 topics:
   - Repositories
 ---
